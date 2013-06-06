@@ -1,3 +1,6 @@
+To run, "python main.py"
+
+
 Configuration:
 
 There's no configuration file yet.  
