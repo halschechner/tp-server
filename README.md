@@ -35,4 +35,4 @@ problems once I have.
 * I have no dimmers, so there is currently no dimmer support.  00 is off, 
 064 is on.
 
-
+* my openhab configs are in openhab_config
